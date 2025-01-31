@@ -20,10 +20,12 @@ Sample size: 200
 </details>
 
 ### Ariticles, Books, Reports, & Resources
-1. [How Different Are the Trump Judges? by Stephen J. Choi, Mitu Gulati :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950475)
-2. [Privacy decision‐making and the effects of privacy choice architecture: Experiments toward the design of behaviorally‐aware privacy regulation, Sprigman, 2024, Journal of Empirical Legal Studies, Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/jels.12391)
+<p>1.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950475"> How Different Are the Trump Judges? by Stephen J. Choi, Mitu Gulati :: SSRN </a></p>
 <details><summary> More </summary>
-	2. [Privacy decision‐making and the effects of privacy choice architecture: Experiments toward the design of behaviorally‐aware privacy regulation, Sprigman, 2024, Journal of Empirical Legal Studies, Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/jels.12391)
+<p>2. <a href="https://onlinelibrary.wiley.com/doi/10.1111/jels.12391"> Privacy decision‐making and the effects of privacy choice architecture: Experiments toward the design of behaviorally‐aware privacy regulation, Sprigman, 2024, Journal of Empirical Legal Studies, Wiley Online Library</a></p>
 </details>
+
+
+
 
 
