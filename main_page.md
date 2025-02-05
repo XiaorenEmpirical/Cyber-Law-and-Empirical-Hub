@@ -33,6 +33,8 @@ Sample size: 200
 <p>5. <a href="https://www.cambridge.org/core/journals/law-and-social-inquiry">Law & Social Inquiry | Cambridge Core</></p>
 
 ## Methodologies and Data Resources
+<p>  <a href="https://www.elsblog.org/the_empirical_legal_studi/"> A blog which updates empirical resources and methodologies in law: Empirical Legal Studies </a></p>
+</details>
 
 ## Software and Tools
 
