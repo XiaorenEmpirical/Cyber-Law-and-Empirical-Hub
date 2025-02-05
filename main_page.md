@@ -12,14 +12,18 @@ Sample size: 200
 </details>
 
 ## Ariticles, Books, Reports, & Resources
-<p>1.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950475"> How Different Are the Trump Judges? by Stephen J. Choi, Mitu Gulati :: SSRN </a></p>
+<p>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950475"> How Different Are the Trump Judges? by Stephen J. Choi, Mitu Gulati :: SSRN </a></p>
 <details><summary> More </summary>
-<p>2. <a href="https://onlinelibrary.wiley.com/doi/10.1111/jels.12391"> Privacy decision‐making and the effects of privacy choice architecture: Experiments toward the design of behaviorally‐aware privacy regulation, Sprigman, 2024, Journal of Empirical Legal Studies, Wiley Online Library</a></p>
-<p>3. <a href="https://journals.sagepub.com/doi/10.1177/2755323X241233469"> Are We Underestimating the Crime Prevention Outcomes of Community Policing? The Importance of Crime Reporting Sensitivity Bias - David Weisburd, David B. Wilson, Charlotte Gill, Kiseong Kuen, Taryn Zastrow, 2024 (sagepub.com)</a></p>
+<p> <a href="https://onlinelibrary.wiley.com/doi/10.1111/jels.12391"> Privacy decision‐making and the effects of privacy choice architecture: Experiments toward the design of behaviorally‐aware privacy regulation, Sprigman, 2024, Journal of Empirical Legal Studies, Wiley Online Library</a></p>
+<p> <a href="https://journals.sagepub.com/doi/10.1177/2755323X241233469"> Are We Underestimating the Crime Prevention Outcomes of Community Policing? The Importance of Crime Reporting Sensitivity Bias - David Weisburd, David B. Wilson, Charlotte Gill, Kiseong Kuen, Taryn Zastrow, 2024 (sagepub.com)</a></p>
 </details>
 
 ## Conferences and Workshops
-<p>1. <a href="https://esels.eu/esels-conference-toulouse-19-20-june-2025/">ESELS Conference Toulouse: 19-20 June 2025 - Esels </a></p>
+<p> <a href="https://esels.eu/esels-conference-toulouse-19-20-june-2025/">ESELS Conference Toulouse: 19-20 June 2025 - Esels </a></p>
+<details><summary> Past conferences and Workshops </summary>
+<p> <a href="https://corpusconference.byu.edu/2024-home/">Law & Corpus Linguistics Conference: 2024 </a></p>   
+<p> <a href="https://law.emory.edu/impact/conferences/cels2024.html">2024 Conference on Empirical Legal Studies | Emory University School of Law | Atlanta, GA </a></p>
+</details>
 
 ## Journals
 <p>1. <a href="https://journals.sagepub.com/home/LEX">Journal of Law and Empirical Analysis: Sage Journals (sagepub.com)</a></p>
