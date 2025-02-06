@@ -26,11 +26,12 @@ Sample size: 200
 </details>
 
 ## Journals
-<p>1. <a href="https://journals.sagepub.com/home/LEX">Journal of Law and Empirical Analysis: Sage Journals (sagepub.com)</a></p>
-<p>2. <a href="https://onlinelibrary.wiley.com/journal/17401461?msockid=34edd1462b3a670b39afc45e2a30669c">Journal of Empirical Legal Studies - Wiley Online Library</a></p>
-<p>3. <a href="https://www.cambridge.org/core/journals/law-and-society-review">Law & Society Review | Cambridge Core</a></p>
-<p>4. <a href="https://publicera.kb.se/ejels/about">About the Journal | European Journal of Empirical Legal Studies (kb.se)</a></p>
-<p>5. <a href="https://www.cambridge.org/core/journals/law-and-social-inquiry">Law & Social Inquiry | Cambridge Core</></p>
+<p> <a href="https://journals.sagepub.com/home/LEX">Journal of Law and Empirical Analysis: Sage Journals (sagepub.com)</a></p>
+<p> <a href="https://onlinelibrary.wiley.com/journal/17401461?msockid=34edd1462b3a670b39afc45e2a30669c">Journal of Empirical Legal Studies - Wiley Online Library</a></p>
+<p> <a href="https://www.cambridge.org/core/journals/law-and-society-review">Law & Society Review | Cambridge Core</a></p>
+<p> <a href="https://publicera.kb.se/ejels/about">About the Journal | European Journal of Empirical Legal Studies (kb.se)</a></p>
+<p> <a href="https://www.cambridge.org/core/journals/law-and-social-inquiry">Law & Social Inquiry | Cambridge Core</></p>
+<p> <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making"> Judgment and Decision Making | Cambridge Core</></p>
 
 ## Methodologies and Data Resources
 <p>  <a href="https://www.elsblog.org/the_empirical_legal_studi/"> A blog which updates empirical resources and methodologies in law: Empirical Legal Studies </a></p>
