@@ -12,8 +12,8 @@ Sample size: 200
 </details>
 
 ## Ariticles, Books, Reports, & Resources
+<p>  <a href="https://zenodo.org/records/14165368"> Technological Protection Measures and Digital Preservation: Evidence from Video Games by Kristofer Erickson and Felix Rodriguez Perez <details><summary> More </summary>
 <p>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950475"> How Different Are the Trump Judges? by Stephen J. Choi, Mitu Gulati :: SSRN </a></p>
-<details><summary> More </summary>
 <p> <a href="https://onlinelibrary.wiley.com/doi/10.1111/jels.12391"> Privacy decision‐making and the effects of privacy choice architecture: Experiments toward the design of behaviorally‐aware privacy regulation, Sprigman, 2024, Journal of Empirical Legal Studies, Wiley Online Library</a></p>
 <p> <a href="https://journals.sagepub.com/doi/10.1177/2755323X241233469"> Are We Underestimating the Crime Prevention Outcomes of Community Policing? The Importance of Crime Reporting Sensitivity Bias - David Weisburd, David B. Wilson, Charlotte Gill, Kiseong Kuen, Taryn Zastrow, 2024 (sagepub.com)</a></p>
 </details>
