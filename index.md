@@ -19,7 +19,7 @@ Sample size: 200
 
 <h2 conferences-and-workshops> Conferences and Workshops </h2>
 <p> <a href="https://esels.eu/esels-conference-toulouse-19-20-june-2025/">ESELS Conference Toulouse: 19-20 June 2025 - Esels </a></p>
-<details><summary> Past conferences and Workshops </summary>
+<details><summary> ► Past conferences and Workshops </summary>
 <p> <a href="https://corpusconference.byu.edu/2024-home/">Law & Corpus Linguistics Conference: 2024 </a></p>   
 <p> <a href="https://law.emory.edu/impact/conferences/cels2024.html">2024 Conference on Empirical Legal Studies | Emory University School of Law | Atlanta, GA </a></p>
 </details>
@@ -41,7 +41,7 @@ Sample size: 200
 <h2 software-and-tools> Software and Tools </h2>
 
 <summary> ► more </summary>
-</details>
+
 
 
 
