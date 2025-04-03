@@ -18,7 +18,7 @@ Sample size: 200
 <p> <a href="https://journals.sagepub.com/doi/10.1177/2755323X241233469"> Are We Underestimating the Crime Prevention Outcomes of Community Policing? The Importance of Crime Reporting Sensitivity Bias - David Weisburd, David B. Wilson, Charlotte Gill, Kiseong Kuen, Taryn Zastrow, 2024 (sagepub.com)</a></p>
 </details>
 
-<h2 conferences-and-workshops> "Conferences and Workshops" </h2>
+<h2 conferences-and-workshops> Conferences and Workshops </h2>
 <p> <a href="https://esels.eu/esels-conference-toulouse-19-20-june-2025/">ESELS Conference Toulouse: 19-20 June 2025 - Esels </a></p>
 <details><summary> Past conferences and Workshops </summary>
 <p> <a href="https://corpusconference.byu.edu/2024-home/">Law & Corpus Linguistics Conference: 2024 </a></p>   
