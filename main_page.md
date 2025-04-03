@@ -34,7 +34,9 @@ Sample size: 200
 <p> <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making"> Judgment and Decision Making | Cambridge Core</a></p>
 
 <h2 methodologies-and-data-resources> Methodologies and Data Resources </h2>
-<p>  <a href="https://www.elsblog.org/the_empirical_legal_studi/"> A blog which updates empirical resources and methodologies in law: Empirical Legal Studies </a></p>
+<p> <a href="https://www.elsblog.org/the_empirical_legal_studi/"> A blog which updates empirical resources and methodologies in law: Empirical Legal Studies </a></p>
+<details>
+<summary> more </summary>
 </details>
 
 <h2 software-and-tools> Software and Tools </h2>
