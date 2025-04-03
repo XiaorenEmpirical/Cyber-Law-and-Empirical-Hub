@@ -5,7 +5,7 @@ Methods: manual coding/analysis of court injunctions<br><br>
 Sample size: 200
 </details>
 <details>
-	<summary>More</summary>
+	<summary> ▶️ More</summary>
 			
 </details>
 
