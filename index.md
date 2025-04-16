@@ -19,7 +19,7 @@ Sample size: 200
 </details>
 
 <h2 conferences-and-workshops> Conferences and Workshops </h2>
-<p> <a href="page2.html">🔥Empirical Law Summer Workshop 2025 </a></p>
+<p> <a href="page2.html">🔥 Cyber Law and Empirical Seminar Series (2025)--Seminar 1 </a></p>
 <p> <a href="https://esels.eu/esels-conference-toulouse-19-20-june-2025/">ESELS Conference Toulouse: 19-20 June 2025 - Esels </a></p>
 <details><summary> ► Past conferences and Workshops </summary>
 <p> <a href="https://corpusconference.byu.edu/2024-home/">Law & Corpus Linguistics Conference: 2024 </a></p>   
